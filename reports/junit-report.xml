@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="searching-for-vote-cards-app-(and-dogs???);google-search-for-vote-cards-app" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/edwin/OneDrive/Skrivbord/Skola/Projekt/projekt2/selenium-cucumber-example-await/features/votecard.feature">
+            </property>
+        </properties>
+        <testcase name="When I search Google for &quot;itunes vote cards app&quot;" classname="searching-for-vote-cards-app-(and-dogs???);google-search-for-vote-cards-app" time="6.3425296">
+        </testcase>
+        <testcase name="Then I should see some results" classname="searching-for-vote-cards-app-(and-dogs???);google-search-for-vote-cards-app" time="0.0129683">
+        </testcase>
+    </testsuite>
+    <testsuite name="searching-for-vote-cards-app-(and-dogs???);google-search-for-vote-cards-app" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="C:/Users/edwin/OneDrive/Skrivbord/Skola/Projekt/projekt2/selenium-cucumber-example-await/features/votecard.feature">
+            </property>
+        </properties>
+        <testcase name="When I search Google for &quot;dogs&quot;" classname="searching-for-vote-cards-app-(and-dogs???);google-search-for-vote-cards-app" time="7.0263931">
+        </testcase>
+        <testcase name="Then I should see some results" classname="searching-for-vote-cards-app-(and-dogs???);google-search-for-vote-cards-app" time="0.0127849">
+        </testcase>
+    </testsuite>
+</testsuites>
